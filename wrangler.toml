@@ -1,0 +1,6 @@
+name = "cf-fullstack"
+type = "webpack"
+account_id = "02fd912f6bf47f82218b2461107f7119"
+workers_dev = true
+route = ""
+zone_id = ""
